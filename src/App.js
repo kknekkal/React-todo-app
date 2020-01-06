@@ -5,7 +5,7 @@ class App extends Component {
 
   state =
   {
-      items : [ {name: 'Daylight 1w', price: '$15', itemId : 1},
+      items : [ {name: 'Daylight 1w', price: '$150', itemId : 1},
       {name: 'Daylight 10w', price: '$25', itemId : 2},
       {name: 'Daylight 100w', price: '$35', itemId : 3}
 
